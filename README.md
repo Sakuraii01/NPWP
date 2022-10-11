@@ -1,1 +1,6 @@
 # NPWP
+MAZE GAME IVERILOG
+    -GUSGUS
+    -RYUTA
+    -DIT
+    -SAKURA
