@@ -26,11 +26,6 @@ module tb_counter;
         UpOrDown = 0;
         #300;
         UpOrDown = 1;
-      #300;
-        reset = 1;
-        UpOrDown = 0;
-        #100;
-        reset = 0;  
     end
       
 endmodule
